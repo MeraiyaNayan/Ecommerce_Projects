@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.161fa29c.css",
+    "main.js": "/static/js/main.8266acef.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Nikon.jpg": "/static/media/Nikon.7ec2f379b817b97f9849.jpg",
+    "static/media/spinner.jpg": "/static/media/spinner.afa973eee05e0ebff95a.jpg",
+    "static/media/A2.jpg": "/static/media/A2.f688b2628558e0305c76.jpg",
+    "static/media/A1.jpg": "/static/media/A1.928ce561b50fb0397bc5.jpg",
+    "static/media/A3.jpg": "/static/media/A3.ebd54e84b3678aec934b.jpg",
+    "static/media/loader.gif": "/static/media/loader.9d11df4bdd0bb34de773.gif",
+    "static/media/Shoes.jpg": "/static/media/Shoes.9c17687e6ebf3661b23b.jpg",
+    "static/media/Coldrink.jpg": "/static/media/Coldrink.152f3d3e0b9ae99392b3.jpg",
+    "static/media/Watch.jpg": "/static/media/Watch.1fca05b9dfa75b9526ee.jpg",
+    "static/media/perfum.jpg": "/static/media/perfum.ff71aa00a119554d010b.jpg",
+    "static/media/Lipstic.jpg": "/static/media/Lipstic.96fc8158375e7ea49043.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.161fa29c.css.map": "/static/css/main.161fa29c.css.map",
+    "main.8266acef.js.map": "/static/js/main.8266acef.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.161fa29c.css",
+    "static/js/main.8266acef.js"
+  ]
+}
